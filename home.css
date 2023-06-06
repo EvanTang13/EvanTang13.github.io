@@ -7,6 +7,7 @@ body {
 html,
 body{
 	min-height: 100%;
+	
 }
 .qua{
 	height:100%;
@@ -15,7 +16,9 @@ body{
 	font-family:bold;
 	color:white;
 	text-align:center;
-	line-height:100%;
+	/* vertically align text */
+	margin: 0 auto;
+	
 }
 div:first-child{
 	background-color:#3e6b7e;
