@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.qua{
+	height:700px;
+	width:25%;
+	font-size:30pt;
+	font-family:bold;
+	color:white;
+	text-align:center;
+	line-height:700px;
+}
+div:first-child{
+	background-color:#3e6b7e;
+	float:left;
+}
+div:nth-child(2){
+	background-color:#acba9d;
+	float:left;
+}
+div:nth-child(3){
+	background-color:#eed19c;
+	float:left;
+}
+div:nth-child(4){
+	background-color:#efb28c;
+	float:left;
+}
+a :link{
+	color:white;
+	text-decoration:none;
+}
+a:visited{
+	color:white;
+	text-decoration:underline;
+}
+a:hover{
+	color:#FF8F59;
+	font-style:italic;
+}
+a:active{
+	color: #a03c2b;
+	font-size:26pt;
+}
