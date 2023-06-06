@@ -1,12 +1,12 @@
 @charset "UTF-8";
 .qua{
-	height:700px;
+	height:100%;
 	width:25%;
 	font-size:30pt;
 	font-family:bold;
 	color:white;
 	text-align:center;
-	line-height:700px;
+	line-height:50%;
 }
 div:first-child{
 	background-color:#3e6b7e;
