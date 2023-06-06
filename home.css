@@ -15,7 +15,7 @@ body{
 	font-family:bold;
 	color:white;
 	text-align:center;
-	line-height:50%;
+	line-height:100%;
 }
 div:first-child{
 	background-color:#3e6b7e;
